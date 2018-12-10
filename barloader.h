@@ -47,6 +47,5 @@ PrintWeights (float f)
 		printf("= %.0f kg (%5.2f lb)\n", f, (f*2.2046));
 	else
 		printf("= %.1f kg (%5.2f lb)\n", f, (f*2.2046));
-
 	return;
 }
